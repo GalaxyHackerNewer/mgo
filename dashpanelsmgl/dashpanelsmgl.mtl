@@ -1,0 +1,47 @@
+# Blender 4.3.2 MTL File: 'dashpanelsmgl.blend'
+# www.blender.org
+
+newmtl cmn_metal_ms_dashbelt_dif
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+Pr 0.000000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd pc-computer-sonic-generations-dash-panel/source/PC Computer - Sonic Generations - Dash Panel/Dash Panel/cmn_metal_ms_dashbelt_dif.png
+
+newmtl cmn_metal_ms_dashpanel_dif
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+Pr 0.000000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd pc-computer-sonic-generations-dash-panel/source/PC Computer - Sonic Generations - Dash Panel/Dash Panel/cmn_metal_ms_dashpanel_dif.png
+
+newmtl cmn_obj_panelarrow01_dif_HD
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+Pr 0.000000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd pc-computer-sonic-generations-dash-panel/source/PC Computer - Sonic Generations - Dash Panel/Dash Panel/cmn_obj_panelarrow01_dif_hd.png
